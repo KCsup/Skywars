@@ -1,6 +1,6 @@
-package org.kcsup.minigamecore.game;
+package org.kcsup.skywars.game;
 
-import org.kcsup.minigamecore.arena.Arena;
+import org.kcsup.skywars.arena.Arena;
 
 public class Game {
 

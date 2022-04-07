@@ -1,9 +1,9 @@
 # Name of the Minigame
-game-name: Template
+game-name: Skywars
 game-description: Description
-command-name: temp
+command-name: skywars
 command-aliases:
-  - arena
+  - sw
 
 countdown: 30
 required-players: 2

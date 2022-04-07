@@ -1,4 +1,4 @@
-package org.kcsup.minigamecore.game;
+package org.kcsup.skywars.game;
 
 public enum GameState {
     RECRUITING,

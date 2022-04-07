@@ -1,13 +1,13 @@
-package org.kcsup.minigamecore;
+package org.kcsup.skywars;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.kcsup.minigamecore.arena.Arena;
-import org.kcsup.minigamecore.arena.ArenaManager;
-import org.kcsup.minigamecore.arena.sign.SignManager;
-import org.kcsup.minigamecore.commands.CustomCommand;
-import org.kcsup.minigamecore.commands.executors.ArenaCommand;
-import org.kcsup.minigamecore.game.GameListener;
+import org.kcsup.skywars.arena.Arena;
+import org.kcsup.skywars.arena.ArenaManager;
+import org.kcsup.skywars.arena.sign.SignManager;
+import org.kcsup.skywars.commands.CustomCommand;
+import org.kcsup.skywars.commands.executors.ArenaCommand;
+import org.kcsup.skywars.game.GameListener;
 
 public final class Main extends JavaPlugin {
     private ArenaManager arenaManager;
