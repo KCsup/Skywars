@@ -1,2 +1,2 @@
-# GramersMinigameCore
-The boilerplate for 1.8 Minecraft minigames.
+# Skywars
+My remake of the minigame Skywars.
